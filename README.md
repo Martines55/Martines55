@@ -16,16 +16,16 @@ num1 = float(input("enter a number)
 num2 = float(input("enter the second number")
 
 if operator == "+":
-   print(f" {num1} + {num2} = {num1 + num2)
+   print(f" {num1} + {num2} = {num1 + num2}")
 
 elif operator == "-":
-   print(f" {num1} - {num2} = {num1 - num2}
+   print(f" {num1} - {num2} = {num1 - num2}")
 
 elif operator == "*":
-   print(f" {num1} * {num2} = {num1 * num2}
+   print(f" {num1} * {num2} = {num1 * num2}")
 
 elif Operator == "/"
-   print(f" {num1} / {num2} = {num1 / num2}
+   print(f" {num1} / {num2} = {num1 / num2}")
 
 else:
    primt("error")
